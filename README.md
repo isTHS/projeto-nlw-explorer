@@ -1,5 +1,5 @@
 # NLW eSports 
-![githubexplorer](./github/githubexplorer.png)
+![githubexplorer](github/projeto-NLW.png)
 
 > Trilha Explorer
 
@@ -14,3 +14,4 @@ Projeto construido do evento Next Level Week da Rocktseat.
 
 ## Contato
 - tsantos9200@gmail.com
+

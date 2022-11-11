@@ -49,6 +49,8 @@ ul{
     list-style: none;
 }
 
+
+
 main{
     max-width: 580px;
     width: 90%;
@@ -111,7 +113,6 @@ section ul li:hover{
 header div{
     animation: fromTop .6s .4s backwards;
 }
-
 
 
 @keyframes fromTop {

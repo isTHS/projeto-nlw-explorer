@@ -12,6 +12,4 @@ Projeto construido do evento Next Level Week da Rocktseat.
 - CSS
 - Git e GitHub
 
-## Contato
-- tsantos9200@gmail.com
 
